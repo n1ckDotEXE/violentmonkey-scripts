@@ -1,6 +1,12 @@
-# Collection of ViolentMonkey scripts by n1ckDotEXE
+<p align="center">
+<a href="https://violentmonkey.github.io/"><img src="https://github.com/n1ckDotEXE/violentmonkey-scripts/blob/master/img/violentmonkey.png"></a>
+<br>
+A Collection of ViolentMonkey Scripts
+<br>
+n1ckDotEXE
+</p>
 
-## Violent Monkey
+## Violent Monkey Extension
 | Browser         | Extension                                                                                 |
 | --------------- | ----------------------------------------------------------------------------------------- |
 | Google Chrome   | https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag |

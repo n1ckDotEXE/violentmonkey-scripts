@@ -21,11 +21,11 @@ n1ckDotEXE
 * <a href="https://userscripts-mirror.org/">Userscripts-mirror</a>
 
 ## What is a Userscript?
-- <a href="https://en.wikipedia.org/wiki/Userscript">Wikipedia:</a>
+* <a href="https://en.wikipedia.org/wiki/Userscript">Wikipedia:</a>
 > A userscript (or user script) is a program, usually written in JavaScript, for modifying web pages to augment browsing. On desktop browsers such as Firefox, they are enabled by use of a userscript manager browser extension such as Greasemonkey. The Presto-based Opera-browser-supported userscripts (referred to as User JavaScript) are placed in a designated directory. Userscripts are often referred to as Greasemonkey scripts, named after the original userscript manager for Firefox.
 
 ## What is a Userscript Manager? (ViolentMonkey)
-- <a href="https://en.wikipedia.org/wiki/Userscript">Wikipedia:</a>
+* <a href="https://en.wikipedia.org/wiki/Userscript">Wikipedia:</a>
 >A userscript manager is a type of browser extension and augmented browsing technology that provides a user interface to manage scripts. The main purpose of a userscript manager is to execute scripts on webpages as they are loaded. The most common operations performed by a userscript manager include downloading, creating, installing, organizing, deleting and editing scripts, as well as modifying script permissions (e.g. website exceptions).
 
 ## Metablock (Userscript part 1 of 2)
@@ -33,9 +33,8 @@ n1ckDotEXE
 * All lines in between start with `//` + <a href="https://violentmonkey.github.io/api/metadata-block/">@KeyValue</a>
 * Metablock ends with a `// ==/UserScript==`
 
-## Metablock (Userscript part 2 of 2)
+## Code (Userscript part 2 of 2)
 A userscript runs in a browser, so it can only contain syntax that is supported by the browser.
-<br>
 * <a href="https://violentmonkey.github.io/guide/creating-a-userscript/">How to create a userscript</a>
 * <a href="https://violentmonkey.github.io/guide/using-modern-syntax/">How to use modern syntax in a userscript</a>
 

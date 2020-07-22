@@ -32,12 +32,12 @@ n1ckDotEXE
 ## What is a Userscript Manager? (ViolentMonkey)
 >A userscript manager is a type of browser extension and augmented browsing technology that provides a user interface to manage scripts. The main purpose of a userscript manager is to execute scripts on webpages as they are loaded. The most common operations performed by a userscript manager include downloading, creating, installing, organizing, deleting and editing scripts, as well as modifying script permissions (e.g. website exceptions). <a href="https://en.wikipedia.org/wiki/Userscript">Wikipedia</a>
 
-## Metablock (Userscript part 1 of 2)
+## Metablock (Userscript Part 1 of 2)
 * Metablock starts with `// ==UserScript==`
 * All lines in between start with `//` + <a href="https://violentmonkey.github.io/api/metadata-block/">@KeyValue</a>
 * Metablock ends with a `// ==/UserScript==`
 
-## Code (Userscript part 2 of 2)
+## Code (Userscript Part 2 of 2)
 A userscript runs in a browser, so it can only contain syntax that is supported by the browser.
 * <a href="https://violentmonkey.github.io/guide/creating-a-userscript/">How to create a userscript</a>
 * <a href="https://violentmonkey.github.io/guide/using-modern-syntax/">How to use modern syntax in a userscript</a>

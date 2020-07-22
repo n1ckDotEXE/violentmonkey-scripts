@@ -81,7 +81,7 @@ $(document).ready(function () {
     var asin = doc.getElementById("ASIN") || doc.getElementsByName("ASIN.0")[0];
     if (asin) {
         asin = asin.value
-        history.replaceState(null, "", "/dp/" + asin + "/?tag=YOUR_TAG_HERE");
+        history.replaceState(null, "", "/dp/" + asin + "/?tag=ndexe-20");
     }
 })
     (document);

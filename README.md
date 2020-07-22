@@ -4,6 +4,11 @@
 A Collection of ViolentMonkey Scripts
 <br>
 n1ckDotEXE
+<br>
+<br>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/n1ckDotEXE/violentmonkey-scripts?style=flat-square">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/n1ckDotEXE/violentmonkey-scripts?style=flat-square">
+<img alt="GitHub" src="https://img.shields.io/github/license/n1ckDotEXE/violentmonkey-scripts?style=flat-square">
 </p>
 
 ## Violent Monkey Extension

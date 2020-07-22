@@ -47,8 +47,6 @@ A userscript runs in a browser, so it can only contain syntax that is supported 
 |<a href="https://www.tampermonkey.net/">TamperMonkey</a>|Closed-Source|Yes|Yes|
 
 ## Styling Websites (CSS)
- Add a local style sheet to a web page by adding the style sheet content to an HTML `<style>` tag and adding the tag to the page.
- <br>
- or
- <br>
- Visit <a href="https://www.userstyles.org/">UserStyles</a> and select `Install style as userscript` under the website theme to install as a script.
+ * Add a local style sheet to a web page by adding the style sheet content to an HTML `<style>` tag and adding the tag to the page.
+ * Visit <a href="https://www.userstyles.org/">UserStyles</a> and select `Install style as userscript` under the website theme to install as a script.
+ * <a href="https://freestyler.ws/">FreeStyler</a> is another resource for templates but lacks the installationa as a script.

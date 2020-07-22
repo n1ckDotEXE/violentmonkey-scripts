@@ -1,0 +1,28 @@
+{
+	"name": "github-userscripts",
+	"version": "1.0.276",
+	"description": "Userscripts to add functionality to GitHub",
+	"license": "MIT",
+	"repository": "Mottie/GitHub-userscripts",
+	"author": {
+		"name": "Rob Garrison",
+		"email": "wowmotty@gmail.com",
+		"url": "https://github.com/Mottie"
+	},
+	"devDependencies": {
+		"eslint": "^7.4.0",
+		"github-reserved-names": "^1.1.10",
+		"make-fetch-happen": "^8.0.8",
+		"ver": "^6.0.2"
+	},
+	"scripts": {
+		"authors": "bash tools/authors.sh",
+		"build:reserved": "node tools/reserved-names.js",
+		"build:mutations": "node tools/update-mutations.js",
+		"lint": "npx eslint *.js",
+		"test": "eslint *.js",
+		"patch": "npm run lint && npx ver patch",
+		"minor": "npm run lint && npx ver minor",
+		"major": "npm run lint && npx ver major"
+	}
+}

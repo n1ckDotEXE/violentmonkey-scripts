@@ -11,7 +11,7 @@ n1ckDotEXE
 <img alt="GitHub" src="https://img.shields.io/github/license/n1ckDotEXE/violentmonkey-scripts?style=flat-square">
 </p>
 
-## Violent Monkey Extension
+---
 | Browser         | Extension                                                                                 |
 | --------------- | ----------------------------------------------------------------------------------------- |
 | Google Chrome   | https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag |
